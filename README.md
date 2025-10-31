@@ -1,8 +1,8 @@
 # MSCS 634 – Lab 1: Data Visualization, Preprocessing, and Statistical Analysis
 
 **Author:** Safal Poudel  
-**Course:** MSCS 634 – Advanced Big Data and Data Mining 
-**Instructor:** Prof. Satish Penmatsa
+**Course:** MSCS 634 – Advanced Big Data and Data Mining  
+**Instructor:** Prof. Satish Penmatsa  
 **Lab Assignment:** Lab 1 – Data Visualization, Preprocessing, and Statistical Analysis  
 
 ---
